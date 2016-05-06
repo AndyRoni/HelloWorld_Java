@@ -16,6 +16,8 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         System.out.println("Nazdar světe.");
+        int i = 8;
+        System.out.println("i: "+i);
     }
     
 }
